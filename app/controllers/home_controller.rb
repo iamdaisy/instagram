@@ -5,5 +5,5 @@ class HomeController < ApplicationController
   def welcome
     @name = params[:keyword]
   end
-  
+
 end
